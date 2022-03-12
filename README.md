@@ -33,7 +33,7 @@
 <br>
 
 <h4 align="center"> 
-	🚧  <strong>Cube Game Store 🚀 Em construção...  </strong>🚧
+	🚧  <strong>Projeto em construção...  </strong>🚧
 </h4>
 
 ## :dart: Sobre o Projeto
