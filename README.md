@@ -38,12 +38,9 @@
 
 ## :dart: Sobre o Projeto
 
-<br>
 <div align="center">
 <!-- <img  src="./.github/preview.gif" alt="Logo"> -->
 </div>
-<br>
-<br>
 
 Projeto desenvolvido com finalidade de pratica e aprendizado de tecnologias usadas em producao em um e-commerce real
 Todo o projeto foi estruturado, pensando em boas praticas, velocidade e experiencia do usuario.
