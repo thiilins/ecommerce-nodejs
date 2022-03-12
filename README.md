@@ -24,7 +24,6 @@
 [![Repository Size](https://img.shields.io/github/repo-size/thiilins/ecommerce-nodejs?style=for-the-badge&color=280E4D)](https://img.shields.io/github/repo-size/thiilins/ecommerce-nodejs?style=for-the-badge&color=ef5350)
 
   <p align="center">
-    Projeto desenvolvido pelo grupo 4 durante o curso Desenvolvimento Web Fullstack  (Digital House)
     <br />
     <!-- <a href="https://github.com/thiilins/ecommerce-nodejs"><strong>Explore the docs »</strong></a> -->
     
