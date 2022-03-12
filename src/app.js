@@ -1,8 +1,8 @@
 "use strict";
 const express = require("express");
 const app = express();
-const methodOverride = require("method-override");
-const routes = require("./src/routes");
+
+const routes = require("./app/routes");
 const path = require("path");
 const logger = require("morgan");
 const swaggerUI = require("swagger-ui-express");
